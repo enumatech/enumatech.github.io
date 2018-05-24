@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="349px" preserveAspectRatio="none" style="width:336px;height:349px;" version="1.1" viewBox="0 0 336 349" width="336px" zoomAndPan="magnify"><defs><filter height="300%" id="f8j7nnu0xcpq7" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="35.5" x2="35.5" y1="86.2969" y2="337.3594"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="111" x2="111" y1="86.2969" y2="337.3594"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="193.5" x2="193.5" y1="86.2969" y2="337.3594"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="286" x2="286" y1="86.2969" y2="337.3594"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="35" x="15" y="82.9951">Alice</text><ellipse cx="35.5" cy="13" fill="#FEFECE" filter="url(#f8j7nnu0xcpq7)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M35.5,21 L35.5,48 M22.5,29 L48.5,29 M35.5,48 L22.5,63 M35.5,48 L48.5,63 " fill="none" filter="url(#f8j7nnu0xcpq7)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="28" x="94" y="82.9951">Bob</text><ellipse cx="111" cy="13" fill="#FEFECE" filter="url(#f8j7nnu0xcpq7)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M111,21 L111,48 M98,29 L124,29 M111,48 L98,63 M111,48 L124,63 " fill="none" filter="url(#f8j7nnu0xcpq7)" style="stroke: #A80036; stroke-width: 2.0;"/><rect fill="#FEFECE" filter="url(#f8j7nnu0xcpq7)" height="46.5938" style="stroke: #A80036; stroke-width: 1.5;" width="75" x="154" y="34.7031"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="49" x="167" y="54.6982">Sprites</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="61" x="161" y="70.9951">Contract</text><rect fill="#FEFECE" filter="url(#f8j7nnu0xcpq7)" height="62.8906" style="stroke: #A80036; stroke-width: 1.5;" width="82" x="243" y="18.4063"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="68" x="250" y="38.4014">Preimage</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="63" x="252.5" y="54.6982">Manager</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="61" x="253.5" y="70.9951">Contract</text><polygon fill="#A80036" points="181.5,111.2969,191.5,115.2969,181.5,119.2969,185.5,115.2969" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="35.5" x2="187.5" y1="115.2969" y2="115.2969"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="48" x="42.5" y="110.3638">deposit</text><polygon fill="#A80036" points="181.5,140.4297,191.5,144.4297,181.5,148.4297,185.5,144.4297" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="111" x2="187.5" y1="144.4297" y2="144.4297"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="48" x="118" y="139.4966">deposit</text><polygon fill="#A80036" points="99,169.5625,109,173.5625,99,177.5625,103,173.5625" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="35.5" x2="105" y1="173.5625" y2="173.5625"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="17" x="42.5" y="168.6294">$X</text><polygon fill="#A80036" points="99,198.6953,109,202.6953,99,206.6953,103,202.6953" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="35.5" x2="105" y1="202.6953" y2="202.6953"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="16" x="42.5" y="197.7622">$Y</text><polygon fill="#A80036" points="46.5,227.8281,36.5,231.8281,46.5,235.8281,42.5,231.8281" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="40.5" x2="110" y1="231.8281" y2="231.8281"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="17" x="52.5" y="226.895">$Z</text><polygon fill="#A80036" points="181.5,256.9609,191.5,260.9609,181.5,264.9609,185.5,260.9609" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="35.5" x2="187.5" y1="260.9609" y2="260.9609"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="48" x="42.5" y="256.0278">finalize</text><polygon fill="#A80036" points="274,286.0938,284,290.0938,274,294.0938,278,290.0938" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="193.5" x2="280" y1="290.0938" y2="290.0938"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="68" x="200.5" y="285.1606">revealed ?</text><polygon fill="#A80036" points="46.5,315.2266,36.5,319.2266,46.5,323.2266,42.5,319.2266" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="40.5" x2="192.5" y1="319.2266" y2="319.2266"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="55" x="52.5" y="314.2935">disburse</text><polygon fill="#A80036" points="122,315.2266,112,319.2266,122,323.2266,118,319.2266" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 2.0,2.0;" x1="116" x2="192.5" y1="319.2266" y2="319.2266"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="55" x="128" y="314.2935">disburse</text><!--
+@startuml
+!pragma teoz true
+
+hide footbox
+
+actor "   Alice   " as A
+actor "    Bob    " as B
+
+participant Registry as "Sprites\nContract"
+participant PM as "Preimage\nManager\nContract"
+
+A - -> Registry: deposit
+B - -> Registry: deposit
+A - -> B: $X
+A - -> B: $Y
+A <- - B: $Z
+
+A - -> Registry: finalize
+Registry - -> PM: revealed ?
+
+Registry - -> A: disburse
+& Registry - -> B: disburse
+
+
+@enduml
+
+PlantUML version 1.2018.01(Mon Jan 29 02:08:22 HKT 2018)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 1.8.0_152-release-1036-b1
+Operating System: Linux
+OS Version: 4.14.32
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

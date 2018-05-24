@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="260px" preserveAspectRatio="none" style="width:617px;height:260px;" version="1.1" viewBox="0 0 617 260" width="617px" zoomAndPan="magnify"><defs><filter height="300%" id="fsn7gxry3pxvb" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><ellipse cx="98.2487" cy="22.5236" fill="#FEFECE" filter="url(#fsn7gxry3pxvb)" rx="27.7487" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="35" x="80.7487" y="27.1721">Alice</text><ellipse cx="97.799" cy="128.5236" fill="#FEFECE" filter="url(#fsn7gxry3pxvb)" rx="22.799" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="28" x="83.799" y="133.1721">Bob</text><ellipse cx="45.0624" cy="234.5236" fill="#FEFECE" filter="url(#fsn7gxry3pxvb)" rx="39.0624" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="51" x="19.5624" y="239.1721">Charlie</text><ellipse cx="150.9914" cy="234.5236" fill="#FEFECE" filter="url(#fsn7gxry3pxvb)" rx="31.9914" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="41" x="130.4914" y="239.1721">David</text><ellipse cx="310.2487" cy="22.5236" fill="#FEFECE" filter="url(#fsn7gxry3pxvb)" rx="27.7487" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="35" x="292.7487" y="27.1721">Alice</text><ellipse cx="309.799" cy="128.5236" fill="#FEFECE" filter="url(#fsn7gxry3pxvb)" rx="22.799" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="28" x="295.799" y="133.1721">Bob</text><ellipse cx="257.0624" cy="234.5236" fill="#FEFECE" filter="url(#fsn7gxry3pxvb)" rx="39.0624" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="51" x="231.5624" y="239.1721">Charlie</text><ellipse cx="362.9914" cy="234.5236" fill="#FEFECE" filter="url(#fsn7gxry3pxvb)" rx="31.9914" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="41" x="342.4914" y="239.1721">David</text><ellipse cx="522.2487" cy="22.5236" fill="#FEFECE" filter="url(#fsn7gxry3pxvb)" rx="27.7487" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="35" x="504.7487" y="27.1721">Alice</text><ellipse cx="521.799" cy="128.5236" fill="#FEFECE" filter="url(#fsn7gxry3pxvb)" rx="22.799" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="28" x="507.799" y="133.1721">Bob</text><ellipse cx="469.0624" cy="234.5236" fill="#FEFECE" filter="url(#fsn7gxry3pxvb)" rx="39.0624" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="51" x="443.5624" y="239.1721">Charlie</text><ellipse cx="574.9914" cy="234.5236" fill="#FEFECE" filter="url(#fsn7gxry3pxvb)" rx="31.9914" ry="14.5236" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="41" x="554.4914" y="239.1721">David</text><!--link Alice to Bob--><path d="M98,37.2388 C98,57.4904 98,93.7007 98,113.8863 " fill="none" id="Alice-Bob" style="stroke: #A80036; stroke-width: 1.0;"/><!--link Bob to Charlie--><path d="M91.0712,142.3576 C81.026,162.448 62.5039,199.4923 52.2704,219.9592 " fill="none" id="Bob-Charlie" style="stroke: #A80036; stroke-width: 1.0;"/><!--link Bob to David--><path d="M104.9288,142.3576 C115.0301,162.5602 133.7034,199.9067 143.9003,220.3006 " fill="none" id="Bob-David" style="stroke: #A80036; stroke-width: 1.0;"/><!--link Alice2 to Bob2--><path d="M310,37.2388 C310,55.9083 310,88.1403 310,108.8772 " fill="none" id="Alice2-Bob2" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="310,113.8863,314,104.8863,310,108.8863,306,104.8863,310,113.8863" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="17" x="311" y="80.0669">$X</text><!--link Bob2 to Charlie2--><path d="M303.0712,142.3576 C293.7323,161.0354 277.0666,194.3667 266.5461,215.4077 " fill="none" id="Bob2-Charlie2" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="264.2704,219.9592,271.8731,213.6983,266.5065,215.4871,264.7177,210.1205,264.2704,219.9592" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="17" x="288" y="186.0669">$X</text><!--link Bob2 to David2--><path d="M316.9288,142.3576 C327.0301,162.5602 345.7034,199.9067 355.9003,220.3006 " fill="none" id="Bob2-David2" style="stroke: #A80036; stroke-width: 1.0;"/><!--link Alice3 to Bob3--><path d="M522,37.2388 C522,55.9083 522,88.1403 522,108.8772 " fill="none" id="Alice3-Bob3" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="522,113.8863,526,104.8863,522,108.8863,518,104.8863,522,113.8863" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="16" x="523" y="80.0669">$Y</text><!--link Bob3 to Charlie3--><path d="M515.0712,142.3576 C505.026,162.448 486.5039,199.4923 476.2704,219.9592 " fill="none" id="Bob3-Charlie3" style="stroke: #A80036; stroke-width: 1.0;"/><!--link Bob3 to David3--><path d="M528.9288,142.3576 C538.3199,161.1397 555.1198,194.7396 565.6296,215.7592 " fill="none" id="Bob3-David3" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="567.9003,220.3006,567.453,210.4619,565.6642,215.8285,560.2976,214.0397,567.9003,220.3006" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="16" x="552" y="186.0669">$Y</text><!--
+@startuml
+!pragma teoz true
+
+actor (Alice)
+actor (Bob)
+actor (Charlie)
+actor (David)
+
+actor (Alice2) as "Alice"
+actor (Bob2) as "Bob"
+actor (Charlie2) as "Charlie"
+actor (David2) as "David"
+
+actor (Alice3) as "Alice"
+actor (Bob3) as "Bob"
+actor (Charlie3) as "Charlie"
+actor (David3) as "David"
+
+(Alice) - - (Bob)
+(Bob) - - (Charlie)
+Bob - - (David)
+
+(Alice2)  - -> (Bob2): $X
+(Bob2) - -> (Charlie2): $X
+(Bob2) - - (David2)
+
+(Alice3)  - -> (Bob3): $Y
+(Bob3) - - (Charlie3)
+(Bob3) - -> (David3): $Y
+
+@enduml
+
+PlantUML version 1.2018.01(Mon Jan 29 02:08:22 HKT 2018)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 1.8.0_152-release-1036-b1
+Operating System: Linux
+OS Version: 4.14.32
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
