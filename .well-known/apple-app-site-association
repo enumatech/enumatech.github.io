@@ -1,17 +1,17 @@
 {
     "activitycontinuation": {
         "apps": [
-            "TNQQBU8UR6.io.enuma.test.App2",
-            "TNQQBU8UR6.io.enuma.test.App1"
+            "HUD5SY6VAU.io.enuma.test.App2",
+            "HUD5SY6VAU.io.enuma.test.App1"
         ]
     },
     "applinks": {
         "apps": [],
         "details": [{
-            "appID": "TNQQBU8UR6.io.enuma.test.App2",
+            "appID": "HUD5SY6VAU.io.enuma.test.App2",
             "paths": ["/App2"]
         },{
-            "appID": "TNQQBU8UR6.io.enuma.test.App1",
+            "appID": "HUD5SY6VAU.io.enuma.test.App1",
             "paths": ["/App1"]
         }]
     }
