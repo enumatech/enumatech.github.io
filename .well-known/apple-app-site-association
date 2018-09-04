@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "TNQQBU8UR6.io.enuma.test.App2",
+            "paths": ["/TestUnivLinks"]
+        }]
+    }
+}
