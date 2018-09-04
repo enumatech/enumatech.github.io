@@ -1,4 +1,10 @@
 {
+    "activitycontinuation": {
+        "apps": [
+            "TNQQBU8UR6.io.enuma.test.App2",
+            "TNQQBU8UR6.io.enuma.test.App1"
+        ]
+    },
     "applinks": {
         "apps": [],
         "details": [{
