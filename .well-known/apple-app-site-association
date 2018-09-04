@@ -3,7 +3,10 @@
         "apps": [],
         "details": [{
             "appID": "TNQQBU8UR6.io.enuma.test.App2",
-            "paths": ["/TestUnivLinks"]
+            "paths": ["/App2"]
+        },{
+            "appID": "TNQQBU8UR6.io.enuma.test.App1",
+            "paths": ["/App1"]
         }]
     }
 }
