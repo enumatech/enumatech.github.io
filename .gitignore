@@ -1,11 +1,5 @@
-bin/
-obj/
-json/
-*.user
-.vs/
-*.sln
-node_modules
-azure.err
-*.publishsettings
-.idea/
+_site
+.sass-cache
+.jekyll-metadata
 
+.idea
